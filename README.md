@@ -1,2 +1,2 @@
 # House-of-the-dead
- fuck it
+ Project version 0.0
